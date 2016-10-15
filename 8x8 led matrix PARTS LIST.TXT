@@ -1,0 +1,189 @@
+Partlist
+
+Exported from 8x8 led matrix.brd at 16/08/2016 16:32
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library  Position (mm)         Orientation
+
+JP1                     1X08     pinhead  (46.355 73.025)       R0
+JP2                     1X08     pinhead  (17.145 43.815)       R270
+LED1                    LED5MM   led      (24.13 66.04)         R270
+LED2                    LED5MM   led      (30.48 66.04)         R270
+LED3                    LED5MM   led      (36.83 66.04)         R270
+LED4                    LED5MM   led      (43.18 66.04)         R270
+LED5                    LED5MM   led      (49.53 66.04)         R270
+LED6                    LED5MM   led      (55.88 66.04)         R270
+LED7                    LED5MM   led      (62.23 66.04)         R270
+LED8                    LED5MM   led      (68.58 66.04)         R270
+LED9                    LED5MM   led      (24.13 59.69)         R270
+LED10                   LED5MM   led      (30.48 59.69)         R270
+LED11                   LED5MM   led      (36.83 59.69)         R270
+LED12                   LED5MM   led      (43.18 59.69)         R270
+LED13                   LED5MM   led      (49.53 59.69)         R270
+LED14                   LED5MM   led      (55.88 59.69)         R270
+LED15                   LED5MM   led      (62.23 59.69)         R270
+LED16                   LED5MM   led      (68.58 59.69)         R270
+LED17                   LED5MM   led      (24.13 53.34)         R270
+LED18                   LED5MM   led      (30.48 53.34)         R270
+LED19                   LED5MM   led      (36.83 53.34)         R270
+LED20                   LED5MM   led      (43.18 53.34)         R270
+LED21                   LED5MM   led      (49.53 53.34)         R270
+LED22                   LED5MM   led      (55.88 53.34)         R270
+LED23                   LED5MM   led      (62.23 53.34)         R270
+LED24                   LED5MM   led      (68.58 53.34)         R270
+LED25                   LED5MM   led      (24.13 46.99)         R270
+LED26                   LED5MM   led      (30.48 46.99)         R270
+LED27                   LED5MM   led      (36.83 46.99)         R270
+LED28                   LED5MM   led      (43.18 46.99)         R270
+LED29                   LED5MM   led      (49.53 46.99)         R270
+LED30                   LED5MM   led      (55.88 46.99)         R270
+LED31                   LED5MM   led      (62.23 46.99)         R270
+LED32                   LED5MM   led      (68.58 46.99)         R270
+LED33                   LED5MM   led      (24.13 40.64)         R270
+LED34                   LED5MM   led      (30.48 40.64)         R270
+LED35                   LED5MM   led      (36.83 40.64)         R270
+LED36                   LED5MM   led      (43.18 40.64)         R270
+LED37                   LED5MM   led      (49.53 40.64)         R270
+LED38                   LED5MM   led      (55.88 40.64)         R270
+LED39                   LED5MM   led      (62.23 40.64)         R270
+LED40                   LED5MM   led      (68.58 40.64)         R270
+LED41                   LED5MM   led      (24.13 34.29)         R270
+LED42                   LED5MM   led      (30.48 34.29)         R270
+LED43                   LED5MM   led      (36.83 34.29)         R270
+LED44                   LED5MM   led      (43.18 34.29)         R270
+LED45                   LED5MM   led      (49.53 34.29)         R270
+LED46                   LED5MM   led      (55.88 34.29)         R270
+LED47                   LED5MM   led      (62.23 34.29)         R270
+LED48                   LED5MM   led      (68.58 34.29)         R270
+LED49                   LED5MM   led      (24.13 27.94)         R270
+LED50                   LED5MM   led      (30.48 27.94)         R270
+LED51                   LED5MM   led      (36.83 27.94)         R270
+LED52                   LED5MM   led      (43.18 27.94)         R270
+LED53                   LED5MM   led      (49.53 27.94)         R270
+LED54                   LED5MM   led      (55.88 27.94)         R270
+LED55                   LED5MM   led      (62.23 27.94)         R270
+LED56                   LED5MM   led      (68.58 27.94)         R270
+LED57                   LED5MM   led      (24.13 21.59)         R270
+LED58                   LED5MM   led      (30.48 21.59)         R270
+LED59                   LED5MM   led      (36.83 21.59)         R270
+LED60                   LED5MM   led      (43.18 21.59)         R270
+LED61                   LED5MM   led      (49.53 21.59)         R270
+LED62                   LED5MM   led      (55.88 21.59)         R270
+LED63                   LED5MM   led      (62.23 21.59)         R270
+LED64                   LED5MM   led      (68.58 21.59)         R270
+R1       470R           R0603    resistor (26.035 67.31)        MR180
+R2       0R             R1206    resistor (27.94 64.77)         MR90
+R3       470R           R0603    resistor (32.385 67.31)        MR180
+R4       470R           R0603    resistor (38.735 67.31)        MR180
+R5       470R           R0603    resistor (45.085 67.31)        MR180
+R6       470R           R0603    resistor (51.435 67.31)        MR180
+R7       470R           R0603    resistor (57.785 67.31)        MR180
+R8       470R           R0603    resistor (64.135 67.31)        MR180
+R9       470R           R0603    resistor (70.485 67.31)        MR180
+R10      0R             R1206    resistor (34.29 64.77)         MR90
+R11      0R             R1206    resistor (40.64 64.77)         MR90
+R12      0R             R1206    resistor (46.99 64.77)         MR90
+R13      0R             R1206    resistor (53.34 64.77)         MR90
+R14      0R             R1206    resistor (59.69 64.77)         MR90
+R15      0R             R1206    resistor (66.04 64.77)         MR90
+R17      470R           R0603    resistor (26.035 60.96)        MR180
+R18      0R             R1206    resistor (27.94 58.42)         MR90
+R19      470R           R0603    resistor (32.385 60.96)        MR180
+R20      470R           R0603    resistor (38.735 60.96)        MR180
+R21      470R           R0603    resistor (45.085 60.96)        MR180
+R22      470R           R0603    resistor (51.435 60.96)        MR180
+R23      470R           R0603    resistor (57.785 60.96)        MR180
+R24      470R           R0603    resistor (64.135 60.96)        MR180
+R25      470R           R0603    resistor (70.485 60.96)        MR180
+R26      0R             R1206    resistor (34.29 58.42)         MR90
+R27      0R             R1206    resistor (40.64 58.42)         MR90
+R28      0R             R1206    resistor (46.99 58.42)         MR90
+R29      0R             R1206    resistor (53.34 58.42)         MR90
+R30      0R             R1206    resistor (59.69 58.42)         MR90
+R31      0R             R1206    resistor (66.04 58.42)         MR90
+R33      470R           R0603    resistor (26.035 54.61)        MR180
+R34      0R             R1206    resistor (27.94 52.07)         MR90
+R35      470R           R0603    resistor (32.385 54.61)        MR180
+R36      470R           R0603    resistor (38.735 54.61)        MR180
+R37      470R           R0603    resistor (45.085 54.61)        MR180
+R38      470R           R0603    resistor (51.435 54.61)        MR180
+R39      470R           R0603    resistor (57.785 54.61)        MR180
+R40      470R           R0603    resistor (64.135 54.61)        MR180
+R41      470R           R0603    resistor (70.485 54.61)        MR180
+R42      0R             R1206    resistor (34.29 52.07)         MR90
+R43      0R             R1206    resistor (40.64 52.07)         MR90
+R44      0R             R1206    resistor (46.99 52.07)         MR90
+R45      0R             R1206    resistor (53.34 52.07)         MR90
+R46      0R             R1206    resistor (59.69 52.07)         MR90
+R47      0R             R1206    resistor (66.04 52.07)         MR90
+R49      470R           R0603    resistor (26.035 48.26)        MR180
+R50      0R             R1206    resistor (27.94 45.72)         MR90
+R51      470R           R0603    resistor (32.385 48.26)        MR180
+R52      470R           R0603    resistor (38.735 48.26)        MR180
+R53      470R           R0603    resistor (45.085 48.26)        MR180
+R54      470R           R0603    resistor (51.435 48.26)        MR180
+R55      470R           R0603    resistor (57.785 48.26)        MR180
+R56      470R           R0603    resistor (64.135 48.26)        MR180
+R57      470R           R0603    resistor (70.485 48.26)        MR180
+R58      0R             R1206    resistor (34.29 45.72)         MR90
+R59      0R             R1206    resistor (40.64 45.72)         MR90
+R60      0R             R1206    resistor (46.99 45.72)         MR90
+R61      0R             R1206    resistor (53.34 45.72)         MR90
+R62      0R             R1206    resistor (59.69 45.72)         MR90
+R63      0R             R1206    resistor (66.04 45.72)         MR90
+R65      470R           R0603    resistor (26.035 41.91)        MR180
+R66      0R             R1206    resistor (27.94 39.37)         MR90
+R67      470R           R0603    resistor (32.385 41.91)        MR180
+R68      470R           R0603    resistor (38.735 41.91)        MR180
+R69      470R           R0603    resistor (45.085 41.91)        MR180
+R70      470R           R0603    resistor (51.435 41.91)        MR180
+R71      470R           R0603    resistor (57.785 41.91)        MR180
+R72      470R           R0603    resistor (64.135 41.91)        MR180
+R73      470R           R0603    resistor (70.485 41.91)        MR180
+R74      0R             R1206    resistor (34.29 39.37)         MR90
+R75      0R             R1206    resistor (40.64 39.37)         MR90
+R76      0R             R1206    resistor (46.99 39.37)         MR90
+R77      0R             R1206    resistor (53.34 39.37)         MR90
+R78      0R             R1206    resistor (59.69 39.37)         MR90
+R79      0R             R1206    resistor (66.04 39.37)         MR90
+R81      470R           R0603    resistor (26.035 35.56)        MR180
+R82      0R             R1206    resistor (27.94 33.02)         MR90
+R83      470R           R0603    resistor (32.385 35.56)        MR180
+R84      470R           R0603    resistor (38.735 35.56)        MR180
+R85      470R           R0603    resistor (45.085 35.56)        MR180
+R86      470R           R0603    resistor (51.435 35.56)        MR180
+R87      470R           R0603    resistor (57.785 35.56)        MR180
+R88      470R           R0603    resistor (64.135 35.56)        MR180
+R89      470R           R0603    resistor (70.485 35.56)        MR180
+R90      0R             R1206    resistor (34.29 33.02)         MR90
+R91      0R             R1206    resistor (40.64 33.02)         MR90
+R92      0R             R1206    resistor (46.99 33.02)         MR90
+R93      0R             R1206    resistor (53.34 33.02)         MR90
+R94      0R             R1206    resistor (59.69 33.02)         MR90
+R95      0R             R1206    resistor (66.04 33.02)         MR90
+R97      470R           R0603    resistor (26.035 29.21)        MR180
+R98      0R             R1206    resistor (27.94 26.67)         MR90
+R99      470R           R0603    resistor (32.385 29.21)        MR180
+R100     470R           R0603    resistor (38.735 29.21)        MR180
+R101     470R           R0603    resistor (45.085 29.21)        MR180
+R102     470R           R0603    resistor (51.435 29.21)        MR180
+R103     470R           R0603    resistor (57.785 29.21)        MR180
+R104     470R           R0603    resistor (64.135 29.21)        MR180
+R105     470R           R0603    resistor (70.485 29.21)        MR180
+R106     0R             R1206    resistor (34.29 26.67)         MR90
+R107     0R             R1206    resistor (40.64 26.67)         MR90
+R108     0R             R1206    resistor (46.99 26.67)         MR90
+R109     0R             R1206    resistor (53.34 26.67)         MR90
+R110     0R             R1206    resistor (59.69 26.67)         MR90
+R111     0R             R1206    resistor (66.04 26.67)         MR90
+R113     470R           R0603    resistor (26.035 22.86)        MR180
+R115     470R           R0603    resistor (32.385 22.86)        MR180
+R116     470R           R0603    resistor (38.735 22.86)        MR180
+R117     470R           R0603    resistor (45.085 22.86)        MR180
+R118     470R           R0603    resistor (51.435 22.86)        MR180
+R119     470R           R0603    resistor (57.785 22.86)        MR180
+R120     470R           R0603    resistor (64.135 22.86)        MR180
+R121     470R           R0603    resistor (70.485 22.86)        MR180
