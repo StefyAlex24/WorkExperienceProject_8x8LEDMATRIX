@@ -1,4 +1,4 @@
-# WorkExperienceProject_8x8LED_MATRIX
+# WorkExperienceProject_8x8LEDMATRIX
 
 Arduino based 8x8 LED matrix board with Arduino Nano controller.
 Refer to file: 8x8 LED Matrix.docx for project info.
